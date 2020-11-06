@@ -1,1 +1,166 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T10:43:20.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.9.2" etag="JnAQnriPIZaQ1EHV8jdW" type="github"><diagram id="eruTIjKUtpMXMsrQhVK1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-06T11:27:58.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="BIj-6BCsgSbPZpBOZYJw" version="13.9.2" type="github">
+  <diagram id="eruTIjKUtpMXMsrQhVK1" name="Page-1">
+    <mxGraphModel dx="946" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PRjbfbl569_5tGau-nfr-3" value="画面右下&lt;br&gt;プラスボタンを押下" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-4" value="メンバーの遊びたい時間（黄色）を押下" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-5" value="自分の選択された&lt;br&gt;時間をタップ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-6" value="自分の予定列の空白部分をタップ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-13" value="選択されている時間を調整する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-16" value="" style="endArrow=classic;html=1;entryX=0.992;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-19" target="PRjbfbl569_5tGau-nfr-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="100" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-17" value="" style="endArrow=classic;html=1;exitX=0.442;exitY=1.017;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-19" target="PRjbfbl569_5tGau-nfr-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="140" as="sourcePoint" />
+            <mxPoint x="349.03999999999996" y="165.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-18" value="" style="endArrow=classic;html=1;exitX=0.817;exitY=1.05;exitDx=0;exitDy=0;entryX=0.333;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-19" target="PRjbfbl569_5tGau-nfr-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.42640687119274" y="128.2842712474618" as="sourcePoint" />
+            <mxPoint x="490" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-19" value="&lt;span&gt;グループメンバー&lt;/span&gt;&lt;br&gt;&lt;span&gt;予定詳細画面&lt;br&gt;（時間選択無し状態）&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-20" value="グループメンバー&lt;br&gt;予定詳細画面&lt;br&gt;&lt;span&gt;（時間選択状態）&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-20" target="PRjbfbl569_5tGau-nfr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277.92" y="343.98" as="sourcePoint" />
+            <mxPoint x="239.99999999999994" y="376.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-23" value="" style="endArrow=classic;html=1;exitX=0.367;exitY=1.013;exitDx=0;exitDy=0;entryX=0.175;entryY=-0.05;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-6" target="PRjbfbl569_5tGau-nfr-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="310" as="sourcePoint" />
+            <mxPoint x="269.96000000000004" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-24" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274.03999999999996" y="221.03999999999996" as="sourcePoint" />
+            <mxPoint x="174" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-25" value="" style="endArrow=classic;html=1;exitX=1.017;exitY=0.663;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-13" target="PRjbfbl569_5tGau-nfr-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284.03999999999996" y="231.03999999999996" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-26" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.417;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-20" target="PRjbfbl569_5tGau-nfr-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="182.03999999999996" y="293.03999999999996" as="sourcePoint" />
+            <mxPoint x="330" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-27" value="戻るボタンを押下" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-28" value="" style="endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.617;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-27" target="PRjbfbl569_5tGau-nfr-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="150" as="sourcePoint" />
+            <mxPoint x="306.96000000000004" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234.03999999999996" y="201.03999999999996" as="sourcePoint" />
+            <mxPoint x="250" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-30" value="イベント作成画面&lt;br&gt;（日付・時間設定済）&lt;br&gt;※時間は選択した時間" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-31" target="PRjbfbl569_5tGau-nfr-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-31" value="イベント作成画面&lt;br&gt;（日付設定済）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-32" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-3" target="PRjbfbl569_5tGau-nfr-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="260" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-33" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589.5" y="390" as="sourcePoint" />
+            <mxPoint x="589.5" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-34" value="イベント作成画面&lt;br&gt;（日付・時間設定済）&lt;br&gt;※時間はメンバーの遊びたい時間" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-36" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-20" target="PRjbfbl569_5tGau-nfr-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="310" as="sourcePoint" />
+            <mxPoint x="269.96000000000004" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-37" value="" style="endArrow=classic;html=1;exitX=0.383;exitY=0;exitDx=0;exitDy=0;entryX=0.6;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-20" target="PRjbfbl569_5tGau-nfr-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="246.52" y="230" as="sourcePoint" />
+            <mxPoint x="253.48000000000005" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-38" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-20" target="PRjbfbl569_5tGau-nfr-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
+            <mxPoint x="381.57359312880726" y="341.7157287525382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-39" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-3" target="PRjbfbl569_5tGau-nfr-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
+            <mxPoint x="381.57359312880726" y="341.7157287525382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="540" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-42" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-43" value="" style="endArrow=classic;html=1;exitX=0.557;exitY=1.05;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-30" target="PRjbfbl569_5tGau-nfr-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="260" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-49" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-34" target="PRjbfbl569_5tGau-nfr-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599.5" y="400" as="sourcePoint" />
+            <mxPoint x="599.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRjbfbl569_5tGau-nfr-50" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRjbfbl569_5tGau-nfr-42" target="PRjbfbl569_5tGau-nfr-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609.5" y="410" as="sourcePoint" />
+            <mxPoint x="609.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
