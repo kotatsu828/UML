@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T11:27:58.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="BIj-6BCsgSbPZpBOZYJw" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T00:54:41.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="j9DOK1pzAiuLHk0U3jqm" version="13.9.2" type="github">
   <diagram id="eruTIjKUtpMXMsrQhVK1" name="Page-1">
     <mxGraphModel dx="946" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="PRjbfbl569_5tGau-nfr-4" value="メンバーの遊びたい時間（黄色）を押下" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRjbfbl569_5tGau-nfr-5" value="自分の選択された&lt;br&gt;時間をタップ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PRjbfbl569_5tGau-nfr-5" value="自分の選択された&lt;br&gt;時間の枠内を押下" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRjbfbl569_5tGau-nfr-6" value="自分の予定列の空白部分をタップ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
